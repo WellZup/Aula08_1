@@ -5,5 +5,20 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Status-Programador_em_Desenvolvimento-blue"></p>
 
-<p>07 Exercicios para à pratica da linguagem JAVA</p>
-<img src= https://www.cleanpng.com/png-java-platform-standard-edition-programming-languag-5957667/preview.html>
+# <p>07 Exercicios para à pratica da linguagem JAVA</p>
+
+## 🔨 Exercicios do projeto
+
+- `Exercicio 1` `Olá mundo`
+- `Exercicio 2` `Média Aritimética`
+- `Exercicio 3` `Transformar metros em centimetros`
+- `Exercicio 4` `Calculo de salário por hora`
+- `Exercicio 5` `Fahenhait para Celsius`
+- `Exercicio 6` `Antecessor e Sucessor de um numero`
+- `Exercicio 7` `Descontos salário`
+- 
+## ✔️ Técnicas e tecnologias utilizadas
+
+- ``Java ``
+- ``InteliJ IDEA``
+
