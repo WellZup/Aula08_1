@@ -1,4 +1,10 @@
 package Exercicio07;
+
+// TODO: 13/06/2023 Programa que nos dá respectivamente:
+//  Salário bruto.
+//  Quanto pagou ao INSS.
+//  Quanto pagou ao sindicato.
+//  Qual o salário líquido do funcionário.
 import java.util.Scanner;
 public class Salario {
     public static void main(String[] args) {
@@ -24,8 +30,3 @@ public class Salario {
 
     }
 }
-//Programa que nos dá respectivamente:
-//Salário bruto.
-//Quanto pagou ao INSS.
-//Quanto pagou ao sindicato.
-//Qual o salário líquido do funcionário.
